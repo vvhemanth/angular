@@ -3,9 +3,9 @@
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
-    "start": "ng serve", // it starts the program
-    "build": "ng build", //it builds the program so user can deploy it using http-server 
-    "test": "ng test", // it tests the program
+    "start": "ng serve",
+    "build": "ng build",
+    "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
