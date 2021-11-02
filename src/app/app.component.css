@@ -1,0 +1,13 @@
+.change {
+    /* classes */
+    color: green;
+}
+
+#change1 {
+    /* id */
+    color:red;
+}
+
+.make,.make1 {
+    color:violet
+}
