@@ -11,3 +11,21 @@
 .make,.make1 {
     color:violet
 }
+
+table,th,td {
+    border:1px solid red;
+}
+
+.fog{
+color: red;
+border: 1px solid green;
+background-color: cornflowerblue;
+margin: 34px;
+}
+
+#fog {
+    color: red;
+    border: 1px solid green;
+    background-color: cornflowerblue;
+    margin: 34px;
+    }
