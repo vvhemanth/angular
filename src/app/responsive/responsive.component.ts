@@ -8,7 +8,7 @@ import { Component, OnInit } from '@angular/core';
 export class ResponsiveComponent implements OnInit {
 
   constructor() { }
-
+public data = "<span>gfgfg</span>"
   ngOnInit() {
   }
 
